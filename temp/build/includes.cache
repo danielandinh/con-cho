@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Daniel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Daniel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\Documents\\GitHub\\con-cho\\temp\\build\\sketch\\main.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Daniel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\Documents\\GitHub\\con-cho\\temp\\build\\sketch\\main.ino.cpp",
+    "Include": "Adafruit_PWMServoDriver.h",
+    "Includepath": "C:\\Users\\Daniel\\Documents\\Arduino\\libraries\\Adafruit_PWM_Servo_Driver_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\Documents\\GitHub\\con-cho\\temp\\build\\sketch\\main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Daniel\\Documents\\Arduino\\libraries\\Adafruit_PWM_Servo_Driver_Library\\Adafruit_PWMServoDriver.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
