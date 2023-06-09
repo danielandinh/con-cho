@@ -1,13 +1,17 @@
 close all; clear all; clc;
 
 % radius
-r = 1.1;
+r = 7;
 
 % parametric eqns
-x = @(t) r.*(t-sin(t));
-y = @(t) r.*(1-cos(t));
+x = @(t) r*(t*0.12566-sin(t*0.12566));
+y = @(t) 70-r*0.7*(1-cos(t*0.12566));
 
 % plotting
-t = 0:0.01:2*pi;
+t = 0:0.01:50;
 plot(x(t),y(t));
-xlim([0,10]); ylim([0, 5]);
+xlim([-50,100]); ylim([0, 100]);
+
+for i = 0:1:50 
+    44-(44/50)*i
+end
